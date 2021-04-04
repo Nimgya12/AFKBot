@@ -5,7 +5,7 @@
     },
 
     "server": {
-        "host": "localhost",
+        "host": "createdragon",
         "port": 25565
     },
 
